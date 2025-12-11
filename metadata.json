@@ -1,0 +1,5 @@
+{
+  "name": "ReguSim: Systemic Contagion Sandbox",
+  "description": "A macroeconomic simulator for stress-testing the Islamic banking sector using Quantum Agent-Based Modeling concepts. Test policy changes and visualize contagion risks.",
+  "requestFramePermissions": []
+}
